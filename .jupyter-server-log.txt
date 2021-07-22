@@ -34,3 +34,25 @@ TermSocket.open: Opened 1
 [I 02:57:42.233 NotebookApp] New terminal with automatic name: 2
 TermSocket.open: 2
 TermSocket.open: Opened 2
+[I 03:02:15.174 NotebookApp] New terminal with automatic name: 3
+TermSocket.open: 3
+TermSocket.open: Opened 3
+[I 03:07:40.386 NotebookApp] New terminal with automatic name: 4
+TermSocket.open: 4
+TermSocket.open: Opened 4
+[I 03:07:50.043 NotebookApp] Saving file at /Shinyapp/app.R
+[I 03:11:55.602 NotebookApp] EOF on FD 16; stopping reading
+[I 03:11:55.703 NotebookApp] Terminal 1 closed
+Websocket closed
+[I 03:11:56.479 NotebookApp] EOF on FD 17; stopping reading
+[I 03:11:56.579 NotebookApp] Terminal 3 closed
+Websocket closed
+[I 03:11:57.144 NotebookApp] EOF on FD 18; stopping reading
+[I 03:11:57.244 NotebookApp] Terminal 2 closed
+Websocket closed
+[I 03:11:58.256 NotebookApp] EOF on FD 20; stopping reading
+[I 03:11:58.356 NotebookApp] Terminal 4 closed
+Websocket closed
+[I 03:12:16.182 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
