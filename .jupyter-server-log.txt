@@ -1,0 +1,36 @@
+[I 02:48:03.018 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 2021-07-22 02:48:03.995 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-22 02:48:03.996 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-22 02:48:03.996 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-22 02:48:03.996 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-22 02:48:03.996 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-22 02:48:03.996 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-22 02:48:03.996 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-22 02:48:03.996 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-22 02:48:03.996 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-22 02:48:03.996 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-22 02:48:03.996 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-22 02:48:03.996 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-07-22 02:48:04.004 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.8/site-packages/jupyterlab
+[I 2021-07-22 02:48:04.004 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 02:48:04.016 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.8/site-packages/nteract_on_jupyter
+[I 02:48:04.018 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 02:48:04.019 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 02:48:04.019 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 02:48:04.019 NotebookApp] http://jupyter-townsend861-2dshinyassignment1-2d1gl2p8df:8888/user/townsend861-shinyassignment1-1gl2p8df/?token=...
+[I 02:48:04.019 NotebookApp]  or http://127.0.0.1:8888/user/townsend861-shinyassignment1-1gl2p8df/?token=...
+[I 02:48:04.019 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 02:48:04.022 NotebookApp] No web browser found: could not locate runnable browser.
+[I 02:48:05.741 NotebookApp] 302 GET /user/townsend861-shinyassignment1-1gl2p8df/ (10.0.0.17) 0.770000ms
+[I 02:48:15.700 NotebookApp] 302 GET /user/townsend861-shinyassignment1-1gl2p8df/?token=l9Y1-VZwSZ2STnjRh5wcoA (108.208.79.30) 0.940000ms
+/usr/lib/rstudio-server/bin/rsession: Relink `/srv/conda/envs/notebook/lib/R/lib/../.././libgfortran.so.4' with `/lib/x86_64-linux-gnu/librt.so.1' for IFUNC symbol `clock_gettime'
+[I 02:56:57.162 NotebookApp] Trying to establish websocket connection to ws://localhost:53571/p/cb85c18f/websocket/
+[I 02:56:57.166 NotebookApp] Websocket connection established to ws://localhost:53571/p/cb85c18f/websocket/
+[I 02:57:02.909 NotebookApp] Trying to establish websocket connection to ws://localhost:53571/p/cb85c18f/websocket/
+[I 02:57:02.914 NotebookApp] Websocket connection established to ws://localhost:53571/p/cb85c18f/websocket/
+[I 02:57:36.956 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 02:57:42.233 NotebookApp] New terminal with automatic name: 2
+TermSocket.open: 2
+TermSocket.open: Opened 2
